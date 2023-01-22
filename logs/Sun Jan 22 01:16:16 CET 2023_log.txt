@@ -1,0 +1,4 @@
+Error: File does not exist. Check to make sure the file path to your csv is correct.
+    at /home/gofy/FetchCSVPLC/node_modules/csvtojson/v2/Converter.js:81:37
+    at suppressedCallback (node:fs:271:5)
+    at FSReqCallback.oncomplete (node:fs:196:23)
